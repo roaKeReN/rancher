@@ -1,0 +1,3 @@
+#cloud-config
+ssh_authorized_keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL+SAio+rxCoIMiGuq09pzhQ9wYaXZltOQJV7BRrV0xm brian.phillips.mm@gmail.com
